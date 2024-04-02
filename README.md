@@ -1,2 +1,2 @@
 # Pantry Logs
- This has the Dev Logs and the Wireframes.
+ This has the Dev Log and the Wireframes.
